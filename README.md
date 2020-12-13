@@ -2,9 +2,9 @@
 
 Ce script vous rajoute plein de petite fonctionnalités comme : 
 
-- La désactivation des PNJ flics
-- L'annulation de drop d'amres des PNJ
-- La réduction de véhicules de PNJ
+- La désactivation des PNJ et voitures flics
+- L'annulation de drop d'arme des PNJ
+- La réduction de véhicule de PNJ
 - Un debuff des dégâts par les véhicules et les poing
 - La désactivation du coup de crosse
 - Le stamina à l'infinie
