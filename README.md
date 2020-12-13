@@ -1,6 +1,6 @@
 # Script for Fivem 🐌
 
-Ce script vous rajoute plein de petite fonctionnalités comme : 
+Ce script vous rajoute plein de petite fonctionnalités que j'ai trouver et rassembler en un comme : 
 
 - La désactivation des PNJ et voitures flics
 - L'annulation de drop d'arme des PNJ
