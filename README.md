@@ -1,4 +1,4 @@
-# Voici un petit script util 
+# Script for Fivem
 
 Ce script vous rajoute plein de petite fonctionnalités comme : 
 
