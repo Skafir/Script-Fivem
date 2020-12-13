@@ -10,7 +10,7 @@ Ce script vous rajoute plein de petite fonctionnalités comme :
 - Le stamina à l'infinie
 - Le contrôle de véhicule dans les airs
 - Le /me
-- Et le keybind pour changer de place dans les véhicules avec les touches 1,2,3,4
+- Le keybind pour changer de place dans les véhicules avec les touches 1,2,3,4
 
 Aucun support n'est donné, à vous de prendre ou non ceux qui vous intéresse ;)
 
