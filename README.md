@@ -13,3 +13,5 @@ Ce script vous rajoute plein de petite fonctionnalités comme :
 - Et le keybind pour changer de place dans les véhicules avec les touches 1,2,3,4
 
 Aucun support n'est donné, à vous de prendre ou non ceux qui vous intéresse ;)
+
+Si vous avez un problème : Skafir#9090
